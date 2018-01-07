@@ -1,0 +1,23 @@
+/* App.css */
+.bg-image1 {
+  background: url('https://source.unsplash.com/4uojMEdcwI8/1600x900') no-repeat center;
+  background-size: cover;
+  width: 100%;
+  min-height: 600px;
+  color: #fff;
+}
+
+.container {
+  width: 980px;
+  margin: 0 auto;
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.bg-image2 {
+  background: url('https://source.unsplash.com/C86mMbDWL-I/1600x900') no-repeat center;
+  background-size: cover;
+  width: 100%;
+  min-height: 600px;
+  color: #fff;
+}
